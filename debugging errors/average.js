@@ -7,4 +7,4 @@ function average(list) {
 
   return sum / list.length;
 };
-console.log(average([3, 5, 7]));
+console.log(average([3, 5, 7, 10]));
